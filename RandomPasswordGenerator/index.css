@@ -1,0 +1,50 @@
+body {
+    
+    background: #1F2937;
+    margin-top: 80px;
+    font-family: Karla, sans-serif;
+    
+}
+#lineOne {
+    color: white;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+#lineTwo {
+    margin-top: 0px;
+    color: #4ADF86;
+    font-weight: 900;
+}
+#lineThree {
+    color: lightgray;
+    font-weight: i
+}
+#password {
+    background-color: #10B981;
+    height: 40px;
+    width: 200px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+#separator {
+    background-color: #2F3E53;
+    width: 700px;
+}
+#newPW1 {
+    color: #55F991;
+    background-color: #273549;
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#newPW2 {
+    color: #55F991;
+    background-color: #273549;
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+}
