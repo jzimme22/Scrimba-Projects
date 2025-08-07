@@ -1,0 +1,36 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: start;
+	margin: 0 auto;
+	font-family: Roboto, sans-serif;
+	font-weight: bold:
+	font-size: 20px;
+	color: black;
+	background: beige;
+	max-width: 302px;
+}
+#finalPressure-el, #initialTemp-el, #finalTemp-el  {
+	width: 200px;
+}
+#calc {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#final {
+	font-size: 50px;
+	color: black;
+}
+#result {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#clear {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#errorMsg {
+	color: red;
+	font-size: 20px;
+}
